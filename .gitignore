@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+*.log
+
+# AnyLogic & OS
+*.tmp
+.DS_Store
+Thumbs.db
+cache
